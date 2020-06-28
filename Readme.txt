@@ -9,3 +9,4 @@ https://user-images.githubusercontent.com/43095260/85939347-4c173180-b91d-11ea-8
 https://user-images.githubusercontent.com/43095260/85939349-52a5a900-b91d-11ea-9119-c2d0b60a39e2.PNG
 https://user-images.githubusercontent.com/43095260/85939351-55080300-b91d-11ea-88ee-174eb5cb0eef.PNG
 
+![Data1](https://user-images.githubusercontent.com/43095260/85939384-aadcab00-b91d-11ea-8b9e-0436de76bdad.PNG)
