@@ -5,4 +5,3 @@ The Student,Proffesor and Program are all normalized holding only primary keys a
 The course Table has been denormalized, the semester table has been seperated from course table for better simplicity and understanding 
 
 
-![Data1](https://user-images.githubusercontent.com/43095260/85939384-aadcab00-b91d-11ea-8b9e-0436de76bdad.PNG)
